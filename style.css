@@ -1,0 +1,85 @@
+#p3{
+   color:brown;
+   background-color:red;
+   border-radius:0 26px 0 26px;
+   padding:12px;
+}
+.div1{
+   background-image:url('images/lama-roscu-Wpg3Qm0zaGk.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+   font-family: "Smooch Sans", sans-serif;
+   margin:31px;
+   padding:21px;
+   border:3px solid brown;
+   border-radius:3px;
+}
+.div1>h1{
+   color:white;
+   text-align:center;
+   background-color:blue;
+   width:291px;
+   padding:12px;
+   border-radius:5px;
+}
+.div1>p{
+   color:blue;
+   background-color:yellow;
+   margin:8px;
+   padding:13px;
+   border-radius:7px;
+}
+.div1>ul{
+   color:brown;
+   background-color:pink;
+   width:61%;
+   margin:4px;
+   padding:7px;
+   border-radius:3px;
+}
+.div2{
+   text-align:center;
+   color:white;
+   background-color:black;
+   width:65%;
+   border:3px solid white;
+   border-radius:5px;
+   padding:11.9px;
+   margin:7.5px;
+   box-shadow: 2px 3px 6px pink;
+}
+#mg{
+   font-family: "Smooch Sans", sans-serif;
+   color: green;
+   background-color:purple;
+   padding:18px;
+   margin:15px;
+   width:78%;
+   border-radius:9px;
+}
+.frm{
+   width:51%;
+   background-color:pink;
+   margin:31px;
+   border-radius:4px;
+}
+.nav{
+   margin:21px;
+   padding:6px;
+   background-color:blanchedalmond;
+   color:white;
+   border:2px solid brown;
+   border-radius:5px;
+}
+#btn{
+   font-size:18px;
+   color:white;
+   background-color:red;
+   border:2px solid purple;
+   border-radius:24px;
+   margin:9px 21px;
+   padding:7px;
+}
+#btn:hover{
+   background-color:green;
+}
