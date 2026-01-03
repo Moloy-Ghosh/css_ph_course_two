@@ -1,7 +1,7 @@
 # CSS Learning & Practice
 
 ## 🚀 Live Link
-👉
+👉 https://moloy-ghosh.github.io/css_ph_course_two/
 
 ## 📌 Description
 This repository contains my **CSS learning and practice work**.  
